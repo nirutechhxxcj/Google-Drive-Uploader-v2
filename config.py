@@ -1,16 +1,16 @@
 import os
 
 DOWNLOAD_LOCATION = "./Downloads"
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "asddsadsd")
-# BOT_TOKEN = "894269743:AAH3OAtoNulAMPwJg-Cp4zAGBxGazTlzn38"  #  @aryan_vbot
-APP_ID = int(os.environ.get("API_ID", "sdasdsd"))
-API_HASH = os.environ.get("API_HASH", "dsfdfsf")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "5845400826:AAHil-Ow8XUY69-evPAj60eSeTqnz1zARnQ")
+# BOT_TOKEN = "5845400826:AAHil-Ow8XUY69-evPAj60eSeTqnz1zARnQ"  #  @aryan_vbot
+APP_ID = int(os.environ.get("API_ID", "952608"))
+API_HASH = os.environ.get("API_HASH", "8d8d0ad8e3d4bcd54420190f57da78ad")
 AUTH_GROUP = ""
 
 Creds_path = "creds"
 DOWNLOAD_LOCATION = "/"
 
-adminList = [985378987, 1212106123]
+adminList = [818269274, 1212106123]
 
 
 EDIT_TIME = 5
